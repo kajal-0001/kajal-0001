@@ -1,4 +1,5 @@
 - 🙋‍♀️ Hi there!
 - 👩‍💻 This is Kajal Singh
 - 🔭 I’m currently working on AI/ML & Data Science Projects
+- 👀 I’m interested in the field of Data Analytics,AI/ML & Data Science.
 - 🌱 I’m currently learning Data Structure and Algorithms
