@@ -19,3 +19,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kajal-0001)](https://github.com/kajal-0001/github-contribution-stats/)
