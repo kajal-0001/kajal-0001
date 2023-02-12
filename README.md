@@ -5,5 +5,6 @@
 - 🔭 I’m currently working on AI/ML & Data Science Projects
 - 👀 I’m interested in the field of Data Analytics,AI/ML & Data Science.
 - 🌱 I’m currently learning Data Structure and Algorithms
+- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 - 🔭 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kajal-0001&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 - 🔭 [![@kajal_si's Holopin board](https://holopin.io/api/user/board?user=kajal_si)](https://holopin.io/@kajal_si)
