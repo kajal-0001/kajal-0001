@@ -1,4 +1,5 @@
 - 🙋‍♀️ Hi there!
+- ![](https://komarev.com/ghpvc/?username=kajal-0001)
 - 👩‍💻 This is Kajal Singh
 - 🔭 I’m currently working on AI/ML & Data Science Projects
 - 👀 I’m interested in the field of Data Analytics,AI/ML & Data Science.
