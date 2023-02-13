@@ -1,5 +1,5 @@
 - 🙋‍♀️ Hi there!
-- ![](https://komarev.com/ghpvc/?username=kajal-0001)
+- 👀 ![](https://komarev.com/ghpvc/?username=kajal-0001)
 - 👩‍💻 This is Kajal Singh 
 - 👩‍ A 3rd year Computer Science Student
 - 🔭 I’m currently working on AI/ML & Data Science Projects
