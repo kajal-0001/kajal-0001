@@ -1,7 +1,7 @@
 - 🙋‍♀️ Hi there!
 - 👀 ![](https://komarev.com/ghpvc/?username=kajal-0001)
 - 👩‍💻 This is Kajal Singh 
-- 👩‍ A 4th year Computer Science Student
+- 👩‍ Computer Science Student
 - 🔭 I’m currently working on AI/ML,Data Analyst & Data Science Projects
 - 👀 I’m interested in the field of Data Analytics,AI/ML & Data Science
 - 🌱 I’m currently learning Data Structure and Algorithms 
